@@ -36,7 +36,7 @@ class Score():
             color = "tan"
         self.game_over.color(color)
         self.game_over.goto(0, 200)
-        self.game_over.write(f"CALL ME DADDY", align="center",
+        self.game_over.write(f"We Have a Winner!", align="center",
         font=("Arial", 30, "normal"))
     
     def increase_score(self, snake_num):
