@@ -4,7 +4,7 @@ A two-player Snake game where both players race to collect food and reach a scor
 
 ### Technology
 
-Built using **Python 3** with **Turtle graphics library**.
+Built using **Python 3** with **Turtle graphics library**. Run it with any standard Python installation
 
 ### Code Overview
 
